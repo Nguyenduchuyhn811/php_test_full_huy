@@ -3,7 +3,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="blog_option_top_caption col-xs-12 col-sm-12 col-sm-12 col-lg-12">
-							<h2>Dịch vụ & hỗ trợ1</h2>
+							<h2>Dịch vụ & hỗ trợ</h2>
 							<p>Nhanh chóng nhất với thời gian linh hoạt</p>
 						</div>
 						<div class="blog_option_top_item col-xs-12 col-sm-12 col-sm-12 col-lg-12">
