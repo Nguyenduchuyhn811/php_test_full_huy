@@ -1,0 +1,222 @@
+@media (min-width: 1301px){.thanhtoanbackground .thanhtoanshow .container{width: 1300px}}
+
+@media (min-width: 1431px)
+{
+	.container
+	{
+		width: 1430px;
+	}
+	
+}
+
+@media (max-width: 1199px)
+{
+
+}
+
+@media (max-width: 1024px)
+{
+	header .header_menu .header_menu_item .header_menu_item_main li a
+	{
+		padding: 10px 6px;
+	}
+	header .header_menu .header_social .header_social_item li
+	{
+		margin-left: 1px;
+	}
+}
+
+@media (max-width:991px )
+{
+	header .header_menu
+	{
+		background-color: rgba(0, 0, 0, 0.77);
+	}
+	header .header_menu .header_logo a
+	{
+		padding: 15px 0;
+	}
+	section .advertisement1 .adv1_item
+	{
+		padding: 30px 10px;
+		height: 210px;
+	}
+	header .header_menu
+	{
+		padding: 5px 0;
+	}
+	header .header_menu .header_social .header_social_item li .header_social_cart
+	{
+		width: 300px;
+	}
+	.video_item 
+	{
+		margin: 20px 0;
+	}
+	section .v2_bnc_video_main div
+	{
+		margin: 5px 0;
+	}
+	.contact_main div:first-child
+	{
+		padding: 0;
+	}
+	section .v2_bnc_product_main figure .zoomWrapper
+	{
+		margin: 0 auto;
+	}
+	section .v2_bnc_product_main .product_slide
+	{
+		display: none;
+	}
+	.zoomContainer, .zoomContainer div
+	{
+		display: none;
+		width: 100%;
+	}
+	section .v2_bnc_product_main figure img
+	{
+		width: inherit;
+	}
+	section .v2_bnc_product_main figure div
+	{
+		position: relative;
+	}
+	section .v2_bnc_product_main figure div:after
+	{
+		content: '';
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+	}
+	.header_social_cart .sanpham li
+	{
+		width: 100%;
+	}
+}
+
+@media (max-width: 768px)
+{
+	header .header_menu .header_social .header_social_item li i
+	{
+		width: 60px;
+		height: 60px;
+		font-size: 20px;
+		line-height: 60px;
+	}
+	.nav_list
+	{
+		width: 40px;
+		height: 40px;
+	}
+	.sanpham li i
+	{
+		width: 40px !important;
+		height: 40px !important;
+		line-height: 40px !important;
+	}
+}
+
+@media (max-width: 600px)
+{
+	
+}
+
+@media (max-width: 480px)
+{
+	
+}
+
+@media (max-width: 425px)
+{
+	header .header_menu .header_social .header_social_item li i
+	{
+		width: 40px;
+		height: 40px;
+		font-size: 18px;
+		line-height: 40px;
+	}
+	.nav_list
+	{
+		width: 20px;
+		height: 20px;
+	}
+	header .header_menu .header_social .header_social_item li
+	{
+		border:none;
+		width: 25%;
+		float: left;
+		margin: 0;
+	}
+	header .header_menu .header_social .header_social_item li i
+	{
+		border: 1px solid #fff;
+		margin: 0 auto;
+	}
+	header .header_menu .header_social .header_social_item li:last-child a
+	{
+		border: 1px solid #fff;
+		width: 40px;
+		height: 40px;
+		margin: 0 auto
+	}
+	header .header_menu .header_logo a img
+	{
+		width: 100%;
+		margin: 0 auto;
+	}
+	section .v2_bnc_blog_tab_product .nav li
+	{
+		font-size: 11px;
+	}
+	section .v2_bnc_blog_tab_product .tab-content .owl-nav
+	{
+		top: 30%;
+		width: 100%;
+		text-align: left;
+	}
+	section .v2_bnc_blog_tab_product .tab-content .owl-nav button
+	{
+		height: 50px;
+		width: 50px;
+	}
+	section .v2_bnc_blog_tab_product .tab-content .owl-nav .owl-next
+	{
+		float: right;
+	}
+	section .v2_bnc_introduce_main .introduce_main div img
+	{
+		width: 100%;
+	}
+	section .v2_bnc_product_main figcaption button.submit
+	{
+		width: 100%;
+	}
+	.header_social_cart .sanpham li
+	{
+		width: 100% !important;
+	}
+}
+
+@media (max-width: 375px)
+{
+
+}
+
+@media (max-width: 320px)
+{
+
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  .quantrilogin span.psw {
+    display: block;
+    float: none;
+  }
+  .quantrilogin .cancelbtn {
+    width: 100%;
+  }
+}

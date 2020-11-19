@@ -1,0 +1,83 @@
+.menu-button 
+{
+	line-height: 0;
+	display: inline-block;
+	padding: 10px;
+	z-index: 999999;
+} 
+
+.nav_list 
+{
+	cursor: pointer;
+	color: #fff;
+	font-size: 18px;
+	display: inline-block !important;
+	width: 20px;
+	height: 20px;
+	position: relative;
+	z-index: 999;
+}
+
+.nav_list .menu-line
+{
+	height: 2px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    background: #fff;
+    transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.nav_list .menu-line-1
+{
+	top: 0;
+}
+
+.nav_list .menu-line-2
+{
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+.nav_list .menu-line-3
+{
+	bottom: 0;
+}
+
+.header_social_item li:last-child
+{
+	z-index: 999999999;
+}
+
+.mm-navbars_top .mm-navbar:first-child
+{
+	float: right;
+}
+
+#my-menu
+{
+	z-index: 99999999;
+	width: 100% !important;
+	transition: 0.5s;
+}
+
+#my-page
+{
+	min-height: inherit !important;
+}
+
+.mm-wrapper__blocker
+{
+	z-index: 99999999;
+}
+
+.mm-wrapper_opened .mm-menu_fx-menu-zoom
+{
+	transform: scale(0,0) translate3d(0,0,0);
+}
+
+.mm-wrapper_opening .mm-menu_fx-menu-zoom
+{
+	transform: scale(1,1) translate3d(0,0,0);
+}
