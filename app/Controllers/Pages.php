@@ -1,4 +1,6 @@
-<?php namespace App\Controllers;
+<?php 
+die("die");
+namespace App\Controllers;
 
 use CodeIgniter\Controller;
 use CodeIgniter\HTTP\RequestInterface;
