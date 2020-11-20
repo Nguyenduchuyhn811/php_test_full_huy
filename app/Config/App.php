@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'https://github.com/Nguyenduchuyhn811/php_test_full_huy';
+	public $baseURL = 'https://github.com/Nguyenduchuyhn811/php_test_full_huy/public/';
 
 	/*
 	|--------------------------------------------------------------------------
