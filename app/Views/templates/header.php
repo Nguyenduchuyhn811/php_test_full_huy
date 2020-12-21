@@ -74,7 +74,7 @@
 					<div class="header_menu_item hidden-xs hidden-sm col-md-8 col-lg-8">
 						<div id="menu">
 							<ul class="header_menu_item_main">
-								<li><a href="http://localhost:81/index">TRANG CHỦ</a></li>
+								<li><a href="http://localhost:81/index">TRANG CHỦ 1</a></li>
 								<li><a href="file:///C:/Users/dell/Desktop/New%20folder/httpv2bnc00420.v2.webbnc.net/html/gioithieu.html">GIỚI THIỆU</a></li>
 								<li><a href="http://localhost:81/video">VIDEO</a></li>
 								<li>	
